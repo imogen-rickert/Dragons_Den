@@ -2,7 +2,8 @@
 
 # Sharks vs Dragons
 
-*Group project, week 3*
+*Group project, week 3*  
+
 *Imogen, Julia, Anton*
 
 *August 2020 cohort, Berlin, 28.08.20*
